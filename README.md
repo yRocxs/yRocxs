@@ -32,9 +32,9 @@
 <p align="left">
 Sou de <b>Porto Alegre / RS</b> e atualmente estou cursando o 4º semestre de <b>Engenharia de Software</b>.
 <br><br>
-- 🔭 Neste momento estou focado na trilha de <b>Back-end Profissional</b>.<br>
+- 😁 Neste momento estou focado na trilha de <b>Back-end Profissional</b>.<br>
 - 📚 Estudando <b>Java, Spring Boot e AWS</b> para criar APIs escaláveis.<br>
-- ⚡ Apaixonado por tecnologia e resolução de problemas complexos.
+- 🖥️ Apaixonado por tecnologia e resolução de problemas complexos.
 </p>
 
 ###
