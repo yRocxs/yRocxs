@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=2EBD85&center=true&vCenter=true&width=500&lines=Hello,+World!+🌎;" alt="Typing SVG" />
 </div>
 
 ###
@@ -16,16 +16,16 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=yRocxs.yRocxs&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=yRocxs.yRocxs&" />
 </div>
 
 ###
 
-<h1 align="center">Olá, eu sou o Gustavo! 👋</h1>
+<h1 align="center"> Olá, eu sou o Gustavo! 👋</h1>
 
 ###
 
-<h3 align="left">👩‍💻 Sobre Mim</h3>
+<h3 align="left">👩‍💻 Sobre Mim </h3>
 
 ###
 
